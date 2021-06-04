@@ -188,5 +188,6 @@ Outro ponto que nos chamou a atenção foi o aumento da presença feminina em pl
 * https://steamcommunity.com/discussions/forum/27/
 * https://github.com/EthanWalker/steam-analyzer
 * https://github.com/cyber-gh/SteamCrawlerApi
+* https://store.steampowered.com/?l=portuguese
 
 
