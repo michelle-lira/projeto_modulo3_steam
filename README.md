@@ -43,16 +43,16 @@ Concluímos os requisitos em duas sprints:
 
 * Sprint 1
 
-1. Estruturamos o nosso banco de dados com a criação das tabelas
-2. Elaboramos as perguntas a serem respondidas com base nos dados obtidos no banco
-3. Planejamos como seria feita a aplicação do Design Thinking neste projeto
+    1 - Estruturamos o nosso banco de dados com a criação das tabelas   
+    2 - Elaboramos as perguntas a serem respondidas com base nos dados obtidos no banco   
+    3 - Planejamos como seria feita a aplicação do Design Thinking neste projeto   
 
 * Sprint 2
 
-1. Carga de dados no banco, através da inserção dos arquivos em csv
-2. Armazenamos nosso banco na nuvem, utilizando a Google Cloud
-3. Organizamos o script da apresentação do trabalho
-4. Criamos o repositório e produzimos este README
+    1 - Carga de dados no banco, através da inserção dos arquivos em csv   
+    2 - Armazenamos nosso banco na nuvem, utilizando a Google Cloud   
+    3 - Organizamos o script da apresentação do trabalho   
+    4 - Criamos o repositório e produzimos este README   
 
 
 ### Aplicação do Design Thinking
@@ -102,12 +102,12 @@ __Fontes consultadas:__
 
 ## Mais alguns dados interessantes...
 
->De acordo com a amostra utilizada na pesquisa do comportamento consumidores brasileiros em plataformas de jogos online, a maioria dos jogadores reside no Rio de Janeiro
->Predomina entre os jogadores o grupo de pessoas que trabalham
->O acesso via computador supera o volume de acessos via app
->O aplicativo da Steam tinha, até 23/05/21, 889 mil avaliações na Google Play
->Em 2020 foram registradas 471 ocorrências no Reclame Aqui
->Nos últimos 6 meses, 207 novas ocorrências no Reclame Aqui já foram formalizadas, embora a Steam não utilize este canal como via de comunicação com os seus clientes
+>De acordo com a amostra utilizada na pesquisa do comportamento dos consumidores brasileiros em plataformas de jogos online, a maioria dos jogadores reside no Rio de Janeiro;    
+>Predomina entre os jogadores o grupo de pessoas que trabalham;   
+>O acesso via computador supera o volume de acessos via app;  
+>O aplicativo da Steam tinha, até 23/05/21, 889 mil avaliações na Google Play;   
+>Em 2020 foram registradas 471 ocorrências no Reclame Aqui;   
+>Nos últimos 6 meses, 207 novas ocorrências no Reclame Aqui já foram formalizadas, embora a Steam não utilize este canal como via de comunicação com os seus clientes.   
 
 ---
 # Criação da Persona 👦🏽
@@ -190,4 +190,8 @@ Outro ponto que nos chamou a atenção foi o aumento da presença feminina em pl
 * https://github.com/cyber-gh/SteamCrawlerApi
 * https://store.steampowered.com/?l=portuguese
 
+---
+## Gostou do nosso trabalho? 😃
 
+Então deixe uma estrela no repositório!   
+Também ficamos felizes caso queira contribuir com sugestões de melhorias para o projeto.
